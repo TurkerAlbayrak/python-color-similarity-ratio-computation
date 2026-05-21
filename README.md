@@ -45,10 +45,11 @@ Program iki vektör arasındaki mesafeyi şu matematiksel formülle işler:
 $$Distance = \sqrt{\sum_{i=1}^{n} (B_i - A_i)^2}
 $$Elde edilen mesafe, $[0-100]$ ölçeğindeki maksimum olası uzaklığa bölünerek yüzdeye çevrilir:
 $$Similarity = 1 - \left( \frac{Distance}{Max\_Dist} \right)
-$$📦 Kurulum ve ÇalıştırmaProjeyi bilgisayarınıza klonlayın:
+$$📦 Kurulum ve Çalıştırma
+Projeyi bilgisayarınıza klonlayın:
 Bash
 ```
-git clone https://github.com/TurkerAlbayrakC.git
+git clone https://github.com/TurkerAlbayrak/python-color-similarity-ratio-computation.git
 ```
 Proje dizinine gidin:Bash
 ```
