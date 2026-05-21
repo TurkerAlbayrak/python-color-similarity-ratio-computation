@@ -57,5 +57,5 @@ cd /python-color-similarity-ratio-computation
 Scripti çalıştırın:
 Bash
 ```
-python main.py
+python color.py
 ```
